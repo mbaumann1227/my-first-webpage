@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a activity in VS Code to help me become familiarized with HTML block elements and inline elements. It's still a work in progress._
+_This is an activity in VS Code to help me become familiarized with HTML block elements and inline elements. It's still a work in progress._
 
 ## Technologies Used
 
